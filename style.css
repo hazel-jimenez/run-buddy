@@ -180,6 +180,21 @@ section {
     font-size: 38px;
 }
 
+/* REACH OUT STYLE START */
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
 .trainers {
     text-align: center;
 }
